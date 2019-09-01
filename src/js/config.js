@@ -1,0 +1,1 @@
+export const URLbase = 'http://localhost/alpha/';
